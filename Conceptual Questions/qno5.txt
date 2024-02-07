@@ -1,0 +1,4 @@
+5. Describe scenarios where nested if-else statements are preferred over if-elif-else structures ? 
+
+Ans: Nested if-else statements are preferred when there's a need for more complex, specific conditions within a particular branch of code.
+This approach offers finer-grained control and flexibility.

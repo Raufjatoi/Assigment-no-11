@@ -1,0 +1,5 @@
+1. What is the purpose of using control flow statements like if, else, and elif in Python?
+
+Ans: Control flow statements (`if`, `else`, `elif`)
+in Python determine the execution order of code based on conditions.
+They enable decision-making, allowing different blocks to be executed or skipped accordingly.

@@ -1,0 +1,5 @@
+7. Why is it important to indent properly when using control flow statements in Python?
+
+Ans: Proper indentation is crucial in Python to define the scope of code blocks.
+It ensures clear and accurate interpretation of control flow,
+as indentation determines which statements are part of a particular block. 

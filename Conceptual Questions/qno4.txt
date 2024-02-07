@@ -1,0 +1,4 @@
+4. How can you use logical operators (and, or, not) with if-else statements in Python?
+
+Ans: Logical operators (`and`, `or`, `not`) combine conditions in if-else statements.
+`and` requires both conditions to be true, `or` needs at least one, and `not` negates a condition. 

@@ -1,0 +1,5 @@
+6. How does Python handle multiple conditions in an if-elif-else ladder ?
+
+Ans:In an if-elif-else ladder, Python evaluates conditions sequentially.
+Once it encounters a true condition, it executes the corresponding block and skips the remaining conditions.
+If none are true, the else block is executed.

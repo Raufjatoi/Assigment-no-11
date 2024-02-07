@@ -1,0 +1,5 @@
+3. Explain the difference between the if-elif-else and nested if-else structures.
+
+Ans: The `if-elif-else` structure allows testing multiple conditions sequentially.
+In contrast, nested `if-else` structures involve placing one if-else statement inside another,
+providing a more intricate decision-making structure. 

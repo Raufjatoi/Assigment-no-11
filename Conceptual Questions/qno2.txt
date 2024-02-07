@@ -1,0 +1,5 @@
+2. How does Python determine which block of code to execute in an if-else statement?
+
+Ans: Python evaluates the condition specified in the `if` statement.
+If true, the corresponding block is executed;otherwise, the `else` block is executed.
+It follows a top-down evaluation approach.
