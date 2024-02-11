@@ -6,7 +6,7 @@ a = {'apple': 100, 'banana': 120, 'tomato':90}
 print('What u want from the followin ')
 print(a)
 o = input('enter item : ').lower()
-q = int(input('enter the quentity'))
+q = int(input('enter the quentity : '))
 total = a[o] * q
 if total > 1000:
     print(f" total is {total*0.10}")
